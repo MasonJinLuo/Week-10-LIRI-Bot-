@@ -1,0 +1,23 @@
+{
+  "name": "hello",
+  "version": "1.0.0",
+  "description": "",
+  "main": "key.js",
+  "dependencies": {
+    "twitter": "^1.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MasonJinLuo/Week-10-LIRI-Bot-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MasonJinLuo/Week-10-LIRI-Bot-/issues"
+  },
+  "homepage": "https://github.com/MasonJinLuo/Week-10-LIRI-Bot-#readme"
+}
